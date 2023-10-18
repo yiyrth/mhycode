@@ -1,0 +1,11 @@
+# 您对外显示的域名或IP地址
+Host: 127.0.0.1
+
+# 启动端口，请确保端口未被占用
+Port: 3000
+
+# 为/register添加?key=114514校验，留空则不校验
+Key: '114514'
+
+# HTML页脚标签内容
+Copyright: 'Copyright Miao-Yunzai'
