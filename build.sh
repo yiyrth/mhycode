@@ -1,4 +1,4 @@
 npm update -g
-pnpm install
+npm install
 npm start
 done
