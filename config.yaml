@@ -5,7 +5,7 @@ Host: ccode.asuger.top
 Port: 1112
 
 # 为/register添加?key=114514校验，留空则不校验
-Key: '1145'
+Key: ' '
 
 # HTML页脚标签内容
 Copyright: 'Copyright Miao-Yunzai'
