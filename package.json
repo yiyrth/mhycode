@@ -1,3 +1,4 @@
+  "engines": { "node": "18" }
 {
   "name": "GT-Manual",
   "version": "0.0.1",
