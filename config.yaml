@@ -2,7 +2,7 @@
 Host: ccode.asuger.top
 
 # 启动端口，请确保端口未被占用
-Port: 8443
+Port: 1212
 
 # 为/register添加?key=114514校验，留空则不校验
 Key: ''
